@@ -5,5 +5,6 @@ $(document).ready(function () {
 
     setTimeout(function(){
       $('.carousel').carousel() 
-  }, 5000)
+    }, 5000)
+  })
 })
